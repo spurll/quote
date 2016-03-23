@@ -61,7 +61,7 @@ poem:
       The lights begin to twinkle from the rocks:
       The long day wanes: the slow moon climbs: the deep
       Moans round with many voices. Come, my friends,
-      'Tis not too late to seek a newer world
+      'Tis not too late to seek a newer world.
       Push off, and sitting well in order smite
       The sounding furrows; for my purpose holds
       To sail beyond the sunset, and the baths
@@ -348,6 +348,26 @@ poem:
       She hardly believed her fiery eyes;
       For though it was day, to her surprise
       they all went back to bed.
+  - work: There Will Come Soft Rains
+    author: Sara Teasdale
+    content: |-
+      There will come soft rains and the smell of the ground,
+      And swallows circling with their shimmering sound;
+
+      And frogs in the pools, singing at night,
+      And wild plum trees in tremulous white,
+
+      Robins will wear their feathery fire,
+      Whistling their whims on a low fence-wire;
+
+      And not one will know of the war, not one
+      Will care at last when it is done.
+
+      Not one would mind, neither bird nor tree,
+      If mankind perished utterly;
+
+      And Spring herself, when she woke at dawn,
+      Would scarcely know that we were gone.
 silly:
   - content: >-
       "Are you sure the Law of Infinitesimals refers to dilution and not the IQ of
@@ -1354,3 +1374,30 @@ quotation:
       "Everywhere man blames nature and fate, yet his fate is mostly but the echo of his
       character and passions, his mistakes and weaknesses."
     author: Democritus
+  - content: >-
+      "Hiring decisions are made by the gut, not by an objective score, so they might be
+      influenced by biases you don't even realize you have. Race and gender and other axes
+      actually do influence how people are treated, just in little ways that are hard to
+      notice from the outside. But those little things build up over a lifetime and become
+      embedded in culture, which deeply affects how we think and feel and act. Humans
+      aren't fundamentally rational, you can’t trust your own decisions to be objective,
+      and the universe is catastrophically unfair."
+    author: Eevee
+    work: The Tech Diversity Blind Spot
+    link: http://eev.ee/blog/2015/11/06/the-tech-diversity-blind-spot/
+  - content: >-
+      "Everyone is Annawadi talks like this—oh, I will make my child a doctor, a lawyer,
+      and he will make us rich. It's vanity, nothing more. Your little boat goes west and
+      you congratulate yourself, 'What a navigator I am!' And then the wind blows you
+      east."
+    character: Karam Husain
+    author: Katherine Boo
+    work: Behind the Beautiful Forevers
+  - content: >-
+      "I have never killed any one, but I have read some obituary notices with great
+      satisfaction."
+    author: Clarence Darrow
+  - content: >-
+      "If you want a happy ending, that depends, of course, on where you stop your story."
+    author: Orson Welles and Oja Kodar
+    work: Original Screenplay for The Big Brass Ring
