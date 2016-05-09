@@ -368,6 +368,44 @@ poem:
 
       And Spring herself, when she woke at dawn,
       Would scarcely know that we were gone.
+  - work: The Children's Fun Fact Science Corner
+    author: Welcome to Night Vale Episode 87, by Joseph Fink and Jeffrey Cranor
+    content: |-
+      Up is up and down is down.
+      Left is right and right is left.
+      To the west there are the highest highs
+      And to the east there are the lows.
+      The up-top is where the bluebirds go
+      And the witching happens down below.
+
+      If you need cross the street,
+      Mind your shoes and mind your feet;
+      For there are more to streets than horns that bleat
+      Or cars that speed or lights that lead.
+      There is something stranger yet
+      That wants to take you: don't forget!
+
+      Yes, there is something stranger still
+      And if it can, it could and it would and it will.
+      Its teeth are sharp, its eyes are sharp,
+      Its voice a dulcet maze.
+      So walk real quick and step real light
+      And always look both ways!
+
+      Look to the left to see your own death
+      And look to the right to avoid a great fright
+      And look for what hides under the cars that pass by,
+      Under the trucks that speed,
+      Under the pavement weeds,
+      Under the asphalt and sand,
+      Look for a quick grasping hand.
+
+      Up is up and down is down.
+      Left is right and right is left.
+      To the west there are the highest highs
+      And to the east there are the lows.
+      The up-top is where the bluebirds go
+      And the witching happens down below.
 silly:
   - content: >-
       "Are you sure the Law of Infinitesimals refers to dilution and not the IQ of
@@ -1401,3 +1439,9 @@ quotation:
       "If you want a happy ending, that depends, of course, on where you stop your story."
     author: Orson Welles and Oja Kodar
     work: Original Screenplay for The Big Brass Ring
+  - content: |-
+      Do I contradict myself?
+      Very well then I contradict myself,
+      (I am large, I contain multitudes.)
+    author: Walt Whitman
+    work: Song of Myself
