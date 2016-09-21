@@ -763,17 +763,6 @@ quotation:
       "Somewhere, something incredible is waiting to be known."
     author: Carl Sagan
   - content: >-
-      "First of all, nobody doubts that science and religion are compatible in the trivial
-      sense that someone can be a scientist and be religious at the same time. That only
-      shows one's ability to hold two dissimilar approaches to the world simultaneously in
-      one's own mind. As I've said umpteen times before, you could say that being a
-      Christian is compatible with being a murderer because a lot of murderers are
-      Christians. Yet Mooney, and Scott, make this argument, and Mooney touts it as
-      'powerful.' It isn't. This is not what we mean when we say science and faith are
-      incompatible. Got it, folks?? Let's not hear the 'there-are-religious-scientists'
-      argument any more. It's trivial, and insulting to anyone who can think."
-    author: Jerry Coyne
-  - content: >-
       "People commonly use statistics like a drunk uses a lamp post; for support rather
       than illumination."
     author: Samuel Clemens (probably originated with Andrew Lang)
@@ -1497,3 +1486,27 @@ quotation:
       (I am large, I contain multitudes.)
     author: Walt Whitman
     work: Song of Myself
+  - content: >-
+      "We must always take sides. Neutrality helps the oppressor, never the victim.
+      Silence encourages the tormentor, never the tormented. Sometimes we must interfere.
+      When human lives are endangered, when human dignity is in jeopardy, national borders
+      and sensitivities become irrelevant. Wherever men or women are persecuted because of
+      their race, religion, or political views, that place must – at that moment – become
+      the center of the universe."
+    author: Elie Wiesel
+    work: Nobel Peace Prize Acceptance Speech
+  - content: >-
+      "Beautiful, arresting observations always seem accurate, even when they're not."
+    author: John Green
+    work: "Our Capacity for Wonder: A Review"
+  - content: >-
+      "We are what we pretend to be, so we must be very careful what we pretend to be."
+    author: Kurt Vonnegut
+    work: Mother Night
+  - content: >-
+      "There is no such thing as being wise beyond your years. One can only know as much
+      as one has lived to know, though it is certainly possible to learn a great deal less
+      than this."
+    author: Saladin Ahmed
+    work: Throne of the Crescent Moon
+    character: Doctor Adoulla Makhslood
