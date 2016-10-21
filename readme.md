@@ -20,7 +20,12 @@ Quotations are stored in `contents.yml`.
 Starting the Server
 -------------------
 
-Start the server with `run.py`. By default it will be accessible at `localhost:9999`. To make the server world-accessible or for other options, see `run.py -h`.
+Start the server with `run.py`. By default it will be accessible at `localhost:9999`. To
+make the server world-accessible or for other options, see `run.py -h`.
+
+If you're having trouble configuring your sever, I wrote a
+[blog post](http://blog.spurll.com/2015/02/configuring-flask-uwsgi-and-nginx.html)
+explaining how you can get Flask, uWSGI, and Nginx working together.
 
 Bugs and Feature Requests
 =========================
