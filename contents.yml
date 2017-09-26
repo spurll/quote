@@ -1145,12 +1145,6 @@ quotation:
     author: Robert M. Price
     work: The Bible Geek Podcast (8 November 2009)
   - content: >-
-      "I think it's very important to debunk false accusations of contradictions in the
-      Bible, just to be fair about it, because there certainly are real contradictions we
-      want to deal with!"
-    author: Robert M. Price
-    work: The Bible Geek Podcast (29 November 2009)
-  - content: >-
       "I have never killed any one, but I have read some obituary notices with great
       satisfaction."
     author: Clarence Darrow
@@ -1288,18 +1282,6 @@ quotation:
       be good is an obstacle to being as good as you can be."
     author: Jay Smooth
     work: How I Learned to Stop Worrying and Love Discussing Race
-  - content: >-
-      "Ordinary people want to feel philosophically justified in hating evildoers and
-      viewing them as the ultimate authors of their evil. This moral attitude has always
-      been vulnerable to our learning more about the causes of human behavior—and in
-      situations where the origins of a person's actions become absolutely clear, our
-      feelings about his responsibility begin to change. What is more, they should change.
-      We should admit that a person is unlucky to inherit the genes and life experience
-      that will doom him to psychopathy. That doesn’t mean we can't lock him up, or kill
-      him in self-defense, but hating him is not rational, given a complete understanding
-      of how he came to be who he is. Natural, yes; rational, no. Feeling compassion for
-      him would be rational, however—or so I have argued."
-    author: Sam Harris
   - content: >-
       "For me, the most ironic token of that moment in history is the plaque signed by
       President Richard M. Nixon that Apollo 11 took to the Moon. It reads: 'We came in
@@ -1533,3 +1515,18 @@ quotation:
       "Luck is not something you can mention in the presence of self-made men."
     author: E.B. White
     work: One Man's Meat
+  - content: >-
+      "Politics is pervasive. Everything is political and the choice to be 'apolitical' is
+      usually just an endorsement of the status quo and the unexamined life."
+    author: Rebecca Solnit
+  - content: >-
+      "You may never know the truth. So hold on to what's good and live with uncertainty."
+    author: Ian Danskin
+    work: "I Want It to Hurt: Thoughts on Night in the Woods"
+  - content: >-
+      "The vast majority of all human effort, however great or minuscule, ends in failure.
+      So what are your options? You just admit pre-defeat that odds are you’re going to be
+      right or you do it anyway."
+    author: Stephen Falk
+    work: You're the Worst
+    character: Jimmy
