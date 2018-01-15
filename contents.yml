@@ -553,11 +553,6 @@ quotation:
       let adults know I knew. It would scare them."
     author: Maurice Sendak
   - content: >-
-      "The fact that a question can be phrased in a grammatically correct English sentence
-      doesn't make it meaningful, or entitle it to our serious attention."
-    author: Richard Dawkins
-    work: The God Delusion
-  - content: >-
       "Men never do evil so completely and cheerfully as when they do it from religious
       conviction."
     author: Blaise Pascal
@@ -1530,3 +1525,12 @@ quotation:
     author: Stephen Falk
     work: You're the Worst
     character: Jimmy
+  - content: >-
+      "Man can do what he wills, but he cannot will what he wills."
+    author: Arthur Schopenhauer
+  - content: >-
+      "Between a high, solid wall and an egg that breaks against it, I will always stand
+      on the side of the egg."
+    author: Haruki Murakami
+    work: Jerusalem Prize Acceptance Speech
+    link: https://www.haaretz.com/israel-news/culture/leisure/always-on-the-side-of-the-egg-1.270371"
