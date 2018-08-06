@@ -572,7 +572,7 @@ quotation:
   - content: >-
       "I do not fear death. I had been dead for billions and billions of years before I
       was born, and had not suffered the slightest inconvenience from it."
-    author: Samuel Clemens
+    author: Mark Twain
     dubious: true
   - content: >-
       "I believe that when I die I shall rot, and nothing of my ego will survive. I am not
@@ -592,7 +592,7 @@ quotation:
   - content: >-
       "It ain't those parts of the bible that I can't understand that bother me, it is the
       parts that I do understand."
-    author: Samuel Clemens
+    author: Mark Twain
   - content: >-
       "One collection of coincidences too unlikely to be dismissed in this way is provided
       by the case of the proverbial monkey accidentally typing out Shakespeare's Hamlet.
@@ -613,7 +613,7 @@ quotation:
     author: PZ Myers
   - content: >-
       "If Christ were here there is one thing he would not be—a Christian."
-    author: Samuel Clemens
+    author: Mark Twain
   - content: >-
       "My mind is incapable of conceiving such a thing as a soul. I may be in error, and
       man may have a soul; but I simply do not believe it."
@@ -621,7 +621,7 @@ quotation:
   - content: >-
       "I am different from Washington; I have a higher, grander standard of principle.
       Washington could not lie. I can lie, but I won't."
-    character: Samuel Clemens
+    character: Mark Twain
     work: Mark Twain
     author: Archibald Henderson
   - content: >-
@@ -666,7 +666,7 @@ quotation:
       "We despise all reverences and all the objects of reverence which are outside the
       pale of our own list of sacred things. And yet, with strange inconsistency, we are
       shocked when other people despise and defile the things which are holy to us."
-    author: Samuel Clemens
+    author: Mark Twain
   - content: >-
       "In dark ages people are best guided by religion, as in a pitch-black night a blind
       man is the best guide; he knows the roads and paths better than a man who can see.
@@ -698,7 +698,7 @@ quotation:
   - content: >-
       "A lie can travel halfway around the world while the truth is still putting on its
       shoes."
-    author: Samuel Clemens (probably originated with Charles Spurgeon)
+    author: Mark Twain (probably originated with Charles Spurgeon)
     dubious: true
   - content: >-
       "Let's hear your evidence not your legal muscle."
@@ -727,7 +727,7 @@ quotation:
   - content: >-
       "If the man doesn't believe as we do, we say he is a crank, and that settles it. I
       mean, it does nowadays, because now we can't burn him."
-    author: Samuel Clemens
+    author: Mark Twain
   - content: >-
       "We are here on Earth to do good to others. What the others are here for, I don't
       know."
@@ -760,7 +760,7 @@ quotation:
   - content: >-
       "People commonly use statistics like a drunk uses a lamp post; for support rather
       than illumination."
-    author: Samuel Clemens (probably originated with Andrew Lang)
+    author: Mark Twain (probably originated with Andrew Lang)
     dubious: true
   - content: >-
       "Death is an engineering problem."
@@ -1534,3 +1534,12 @@ quotation:
     author: Haruki Murakami
     work: Jerusalem Prize Acceptance Speech
     link: https://www.haaretz.com/israel-news/culture/leisure/always-on-the-side-of-the-egg-1.270371"
+  - content: >-
+      "One may smile, and smile, and be a villain."
+    author: William Shakespeare
+    work: Hamlet (Act I, Scene V)
+    character: Hamlet
+  - content: >-
+      "What do we live for, if it is not to make life less difficult for each other?"
+    author: George Eliot
+    work: Middlemarch
