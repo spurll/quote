@@ -1,4 +1,16 @@
 poem:
+  - work: Excerpt from Meditation XVII
+    author: John Donne
+    content: |-
+      No man is an island entire of itself; every man
+      is a piece of the continent, a part of the main;
+      if a clod be washed away by the sea, Europe
+      is the less, as well as if a promontory were, as
+      well as any manner of thy friends or of thine
+      own were; any man's death diminishes me,
+      because I am involved in mankind.
+      And therefore never send to know for whom
+      the bell tolls; it tolls for thee.
   - work: Ulysses
     author: Alfred Lord Tennyson
     content: |-
@@ -552,6 +564,7 @@ quotation:
       "I remember my own childhood vividly... I knew terrible things. But I knew I mustn't
       let adults know I knew. It would scare them."
     author: Maurice Sendak
+    work: "The New Yorker, 27 September 1993"
   - content: >-
       "Men never do evil so completely and cheerfully as when they do it from religious
       conviction."
@@ -1533,7 +1546,7 @@ quotation:
       on the side of the egg."
     author: Haruki Murakami
     work: Jerusalem Prize Acceptance Speech
-    link: https://www.haaretz.com/israel-news/culture/leisure/always-on-the-side-of-the-egg-1.270371"
+    link: https://www.haaretz.com/israel-news/culture/leisure/always-on-the-side-of-the-egg-1.270371
   - content: >-
       "One may smile, and smile, and be a villain."
     author: William Shakespeare
@@ -1564,3 +1577,19 @@ quotation:
     author: Anand Giridharadas
     work: "Winners Take All: The Elite Charade of Changing the World"
     link: https://www.youtube.com/watch?v=d_zt3kGW1NM
+  - content: >-
+      "A step backward, after making a wrong turn, is a step in the right direction."
+    author: Kurt Vonnegut
+    work: Player Piano
+  - content: |-
+      My candle burns at both ends;
+        It will not last the night;
+      But ah, my foes, and oh, my friends—
+        It gives a lovely light!
+    work: A Few Figs from Thistles (1920)
+    author: Edna St. Vincent Millay
+  - content: >-
+      "The concept of portraying evil and then destroying it—I know it is considered
+      mainstream, but I think it is rotten. This idea that whenever something evil happens
+      someone particular can be blamed for it, in life and in politics is hopeless."
+    author: Hayao Miyazaki
